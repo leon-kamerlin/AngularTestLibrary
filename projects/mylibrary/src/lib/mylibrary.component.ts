@@ -3,11 +3,7 @@ import * as _ from 'lodash';
 
 @Component({
   selector: 'leon-mylibrary',
-  template: `
-    <p>
-      mylibrary works! 2
-    </p>
-  `,
+  templateUrl: './index.html',
   styles: [
   ]
 })
