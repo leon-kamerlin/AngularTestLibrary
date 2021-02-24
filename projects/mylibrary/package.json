@@ -4,10 +4,10 @@
   "peerDependencies": {
     "@angular/common": "^9.1.13",
     "@angular/core": "^9.1.13",
-    "lodash": "^4.17.21",
-    "ngx-auth-firebaseui": "^5.1.0"
+    "lodash": "^4.17.21"
   },
   "dependencies": {
-    "tslib": "^1.10.0"
+    "tslib": "^1.10.0",
+    "ngx-auth-firebaseui": "^5.1.0"
   }
 }
