@@ -3,8 +3,5 @@
   "dest": "../../dist/mylibrary",
   "lib": {
     "entryFile": "src/public-api.ts"
-  },
-  "whitelistedNonPeerDependencies": [
-    "lodash"
-  ]
+  }
 }
