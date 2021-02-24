@@ -5,7 +5,7 @@ import * as _ from 'lodash';
   selector: 'leon-mylibrary',
   template: `
     <p>
-      mylibrary works!
+      mylibrary works! 2
     </p>
   `,
   styles: [
